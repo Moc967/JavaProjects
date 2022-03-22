@@ -1,5 +1,11 @@
 # Projeto Cookbook usando Spring Boot Maven
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-GREEN?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+<hr>
+
 <p>Este projeto foi desenvolvido utilizando o padrão de projeto MVC, utilizando o framework Spring Boot, e utilizando o framework Maven, agregando a integração com o banco MySQL</p>
 
 <p>Para carregar a primeira versão do projeto, basta acessar o link https://start.spring.io/
