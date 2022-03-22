@@ -2,6 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-GREEN?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=maven&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 <hr>
