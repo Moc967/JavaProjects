@@ -1,4 +1,4 @@
-<img src="img/iguatemi.jpg" width=360 height=240 alt ="Iguatemi"> <img src="img/letscode.png" width=320 height=240 alt ="Lets Code" align="right">
+<img src="img/iguatemi.jpg" width=160 height=120 alt ="Iguatemi"> <img src="img/letscode.png" width=160 height=120 alt ="Lets Code" >
 
 
 # Java Projects
