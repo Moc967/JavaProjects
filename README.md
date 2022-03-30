@@ -1,3 +1,5 @@
+<img src="img/iguatemi.jpg" width=180 height=120 alt ="Iguatemi"><img src="img/letscode.png" width=160 height=120 alt ="Lets Code" style="float:right">
+
 
 # Java Projects
 
